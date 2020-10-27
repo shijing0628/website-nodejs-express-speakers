@@ -1,5 +1,6 @@
 # website-nodejs-express-speakers
 
+2020-10
 artwork picture still has display issues in all pages, home page and other page structure is done.
 
 template is using ejs
